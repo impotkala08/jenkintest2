@@ -98,10 +98,6 @@ def enableSeparateBuildPerCPUArchitecture = false
  */
 def enableProguardInReleaseBuilds = false
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 723be61ead75f90c66250e3d9a1e0dae339531a6
 /**
  * The preferred build flavor of JavaScriptCore.
  *
